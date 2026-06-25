@@ -115,44 +115,7 @@ Dimension tables:
 
 **## 11. HOW TO RUN PROJECT**
 
+YET TO BE INCLUDED
 
 
-**## FINAL: FOLDER STRUCTURE**
-
-omc-data-warehouse-project/
-
-│
-
-├── README.md
-├── datafiles/
-│     ├── raw csv files/
-│         ├── ops1.csv
-│         ├── ops2.csv
-│         ├── ops3.csv
-│         ├── ops4.csv
-│      ├── cleaned sql data files/
-│
-├── bronze layer/
-│    ├── bronze script - GitHub.sql
-│
-├── silver layer/
-│    ├── silver script - GitHub.sql
-│
-├── gold layer/
-├    ├── gold script - GitHub.sql
-│    ├── screenshots/
-│   
-│── analytics layer/   
-│    ├── analytics.sql
-│    ├── screenshots/
-├── screenshots/
-│      
-├── docs/
-│   ├── architecture.md
-│   ├── business\_requirements.md
-│
-├── requirements.txt
-├── README.md
-
-├── .gitignore
 
